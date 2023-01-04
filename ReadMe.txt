@@ -2,8 +2,8 @@
 
 //Be aware that this helpers have a dependencies that you need to install first
 
-// this are some of those dependencies but not all
-// you will get an error when you run this and you still miss some dependencies
+// these are some of those dependencies but not all
+// if you run it and you still lack something, you will get an error and just install what ever what is not install on your machine
 
 // install the python on your windows machine
 https://www.python.org/
