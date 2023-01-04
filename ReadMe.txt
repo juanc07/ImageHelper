@@ -23,7 +23,7 @@ pip version must be
 pip 22.3.1 
 
 
-Note: this helpers are made for windows , it might or not work on OS
+Note: this helpers are made for windows , it might or not work on some other OS
 
 // sample commands
 
