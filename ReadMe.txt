@@ -1,4 +1,5 @@
-// Image helper using python and opencv to resize, scale, make it hires or lowres or removing red, green or blue from image 
+// Image helper project is a set of smalltools that used python and opencv to resize, scale, make it hires or lowres or removing red, green or blue from image 
+// i will add more in the future if i have more time again
 
 //Be aware that this helpers have a dependencies that you need to install first
 
