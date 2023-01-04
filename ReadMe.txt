@@ -1,3 +1,5 @@
+// Imege helper using opencv to resize, scale, make it hires or lowres or removing red, green or blue from image 
+
 //Be aware that this helpers have a dependencies that you need to install first
 
 // this are some of those dependencies but not all
